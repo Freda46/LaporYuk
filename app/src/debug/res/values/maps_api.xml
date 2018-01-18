@@ -1,0 +1,5 @@
+<resources>
+    <string name="maps_api" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDXq4YlaRgU1hiK5Tz4ZyzKWSA2xF5Tg7I
+    </string>
+</resources>

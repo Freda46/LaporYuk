@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "191315586719",
+    "firebase_url": "https://lapor-yuk-192505.firebaseio.com",
+    "project_id": "lapor-yuk-192505",
+    "storage_bucket": "lapor-yuk-192505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191315586719:android:efd91c98e4ea2ebe",
+        "android_client_info": {
+          "package_name": "com.dariaweis.freda.laporyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191315586719-vib5vj7uakf2bau5gqhrrkijtht9c2ij.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "191315586719-bnosar3q616l2ni1sgm1l5te36cd5o6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dariaweis.freda.laporyuk",
+            "certificate_hash": "8165b8a5bcd4c5be837945a162f5cc6c5cbfafeb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYr_S6ugt-Bu7gz_Dya4fkYBJ-pVfuMFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
